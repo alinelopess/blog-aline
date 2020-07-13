@@ -5,7 +5,7 @@ module.exports = {
     position: ``,
     description: ``,
     author: `@myblog`,
-    siteUrl: `https://gatsby-course-will.netlify.com`,
+    siteUrl: `https://alinelopes.netlify.com`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
